@@ -6,13 +6,13 @@ export const Heroes = () => {
       <div className="flex items-center">
         <div className="relative h-[18.75rem] w-[18.75rem] sm:h-[21.875rem] sm:w-[21.875rem] md:h-[25rem] md:w-[25rem]">
           <Image
-            src="/idea.svg"
+            src="/documents.png"
             fill
             className="object-contain dark:hidden"
             alt="Idea"
           />
           <Image
-            src="/idea-dark.svg"
+            src="/documents-dark.png"
             fill
             className="hidden object-contain dark:block"
             alt="Idea"
@@ -20,13 +20,13 @@ export const Heroes = () => {
         </div>
         <div className="relative hidden h-[25rem] w-[25rem] md:block">
           <Image
-            src="/team.svg"
+            src="/reading.png"
             fill
             className="object-contain dark:hidden"
             alt="Team"
           />
           <Image
-            src="/team-dark.svg"
+            src="/reading-dark.png"
             fill
             className="hidden object-contain dark:block"
             alt="Team"

@@ -29,7 +29,7 @@ const DocumentsPage = () => {
   return (
     <div className="flex h-full flex-col items-center justify-center space-y-4">
       <Image
-        src="/empty.svg"
+        src="/empty.png"
         alt="empty"
         height="300"
         width="300"
@@ -37,7 +37,7 @@ const DocumentsPage = () => {
         className="h-auto dark:hidden"
       />
       <Image
-        src="/empty-dark.svg"
+        src="/empty-dark.png"
         alt="empty"
         height="300"
         width="300"
