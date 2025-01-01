@@ -6,7 +6,8 @@ It uses Convex as the backend, which is a real-time database that allows for ins
 
 ## Live
 
-Zotion - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
+Zotion - [https://productivity-note-app-zotion.vercel.app/](https://productivity-note-app-zotion.vercel.app/)
+![Zotion](image.png)
 
 ## Features
 
